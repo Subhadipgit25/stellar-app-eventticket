@@ -68,7 +68,7 @@ Event-Ticketing-System
 
 ### 1️⃣ Clone the repository
 ```bash
-
+https://github.com/Subhadipgit25/stellar-app-eventticket
 ```
 
 ### 2️⃣ Open the project
@@ -81,16 +81,15 @@ Simply open:
 index.html
 ```
 
-in your browser.
+
 
 ---
 
-## 🔗 Deployed Smart Contract Link
-(Add your deployed contract link here)
+## 🔗 Deployed Smart Contract Adress
 
-Example:
+
 ```
-https://stellar.expert/explorer/testnet/contract/XXXXXXXX
+CDD7O6CL2ISVXSQBEJUWPCTVYBJVBRHR7WIO4VZFPCNFX5DALTX3XZHA
 ```
 
 ---
