@@ -85,13 +85,14 @@ index.html
 
 ---
 
-## 🔗 Deployed Smart Contract Adress
+## 🔗 Deployed Smart Contract Address
 
 
 ```
 CDD7O6CL2ISVXSQBEJUWPCTVYBJVBRHR7WIO4VZFPCNFX5DALTX3XZHA
 ```
-
+## 🔗 Contract link-
+https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDD7O6CL2ISVXSQBEJUWPCTVYBJVBRHR7WIO4VZFPCNFX5DALTX3XZHA;;
 ---
 
 ## 🌐 Network
